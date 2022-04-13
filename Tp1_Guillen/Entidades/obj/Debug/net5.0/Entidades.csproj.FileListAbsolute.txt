@@ -10,3 +10,15 @@ C:\Users\ignac\source\repos\Tp_N1\Entidades\bin\Debug\net5.0\Entidades.pdb
 C:\Users\ignac\source\repos\Tp_N1\Entidades\obj\Debug\net5.0\Entidades.dll
 C:\Users\ignac\source\repos\Tp_N1\Entidades\obj\Debug\net5.0\ref\Entidades.dll
 C:\Users\ignac\source\repos\Tp_N1\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Escritorio\UTN\Repositorios\tp_laboratorio_2\Tp1_Guillen\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Escritorio\UTN\Repositorios\tp_laboratorio_2\Tp1_Guillen\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Escritorio\UTN\Repositorios\tp_laboratorio_2\Tp1_Guillen\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Escritorio\UTN\Repositorios\tp_laboratorio_2\Tp1_Guillen\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Escritorio\UTN\Repositorios\tp_laboratorio_2\Tp1_Guillen\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Escritorio\UTN\Repositorios\tp_laboratorio_2\Tp1_Guillen\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Escritorio\UTN\Repositorios\tp_laboratorio_2\Tp1_Guillen\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Escritorio\UTN\Repositorios\tp_laboratorio_2\Tp1_Guillen\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Escritorio\UTN\Repositorios\tp_laboratorio_2\Tp1_Guillen\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Escritorio\UTN\Repositorios\tp_laboratorio_2\Tp1_Guillen\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Escritorio\UTN\Repositorios\tp_laboratorio_2\Tp1_Guillen\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Escritorio\UTN\Repositorios\tp_laboratorio_2\Tp1_Guillen\Entidades\obj\Debug\net5.0\Entidades.pdb

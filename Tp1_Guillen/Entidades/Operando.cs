@@ -20,7 +20,6 @@ namespace Entidades
             }
         }
         #endregion
-
         #region Constructores
         /// <summary>
         /// Constructor inicializado en 0 por defecto

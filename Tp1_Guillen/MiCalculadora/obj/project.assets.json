@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ignac\\source\\repos\\Tp_N1\\MiCalculadora\\MiCalculadora.csproj",
+      "projectUniqueName": "C:\\Escritorio\\UTN\\Repositorios\\tp_laboratorio_2\\Tp1_Guillen\\MiCalculadora\\MiCalculadora.csproj",
       "projectName": "MiCalculadora",
-      "projectPath": "C:\\Users\\ignac\\source\\repos\\Tp_N1\\MiCalculadora\\MiCalculadora.csproj",
+      "projectPath": "C:\\Escritorio\\UTN\\Repositorios\\tp_laboratorio_2\\Tp1_Guillen\\MiCalculadora\\MiCalculadora.csproj",
       "packagesPath": "C:\\Users\\ignac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ignac\\source\\repos\\Tp_N1\\MiCalculadora\\obj\\",
+      "outputPath": "C:\\Escritorio\\UTN\\Repositorios\\tp_laboratorio_2\\Tp1_Guillen\\MiCalculadora\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ignac\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\ignac\\source\\repos\\Tp_N1\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\ignac\\source\\repos\\Tp_N1\\Entidades\\Entidades.csproj"
+            "C:\\Escritorio\\UTN\\Repositorios\\tp_laboratorio_2\\Tp1_Guillen\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Escritorio\\UTN\\Repositorios\\tp_laboratorio_2\\Tp1_Guillen\\Entidades\\Entidades.csproj"
             }
           }
         }
@@ -86,7 +86,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   }
